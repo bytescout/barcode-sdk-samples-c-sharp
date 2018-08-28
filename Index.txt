@@ -44,6 +44,7 @@
 \GS1 DataBar Stacked Omnidirectional
 \GS1 DataBar Truncated
 \GS1 Datamatrix (2D)
+\GS1 QR Code
 \I2of5
 \ISBN
 \JAN13
@@ -70,6 +71,7 @@
 \QR Code (2D)
 \QR Code With Binary Data
 \QR Code With Image
+\QR Code with JSON
 \RenderingOptions
 \Royal Mail
 \Singapore Postal Code
