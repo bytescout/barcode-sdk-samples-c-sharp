@@ -34,6 +34,7 @@
 \Generate Barcode from Service
 \Generate Barcodes from Database
 \Generate Barcodes from Excel
+\Generate PharmaCode
 \Generate vCard QR Code
 \GenerateWordDocumentWithBarcodes
 \GS1 DataBar Expanded
