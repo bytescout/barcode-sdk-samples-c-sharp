@@ -71,6 +71,7 @@
 \PZN
 \QR Code (2D)
 \QR Code With Binary Data
+\QR Code With CalenderEntry
 \QR Code With Image
 \QR Code with JSON
 \RenderingOptions
