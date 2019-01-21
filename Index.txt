@@ -1,93 +1,91 @@
 ## Index of source code examples:
 
+\Add barcode Checksum
+\Add barcode Checksum To Caption
+\Add barcode To Image
+\Add barcode To Multi TIFF
+\Add barcode To New PDF
 \Add Barcode To PDF
-\Add To Image
-\Add To Multi TIFF
-\Add To New PDF
-\AddChecksum
-\AddChecksumToCaption
-\AddCustomImagesToPdfDocument
-\AdditionalCaption
-\Angle
-\Aztec (2D)
-\Aztec With Binary Data
-\BarHeight
-\Bookland
-\ChangeColor
-\CodaBar
-\Code128
-\Code39
-\Code93
-\CustomCaption
-\DataMatrix (2D)
-\DataMatrix With Binary Data
-\Deutsche Post Identcode
-\Deutsche Post Leitcode
-\DisplayBarcodeOnForm
-\DrawCaption
-\Dutch Kix
-\EAN128
-\EAN13
-\EAN8
-\Fit Into
-\General Example
+\Add custom images To Pdf Document
+\Aztec barcode (2D)
+\Aztec barcode With Binary Data
+\Bookland barcode
+\Change barcode color
+\CodaBar barcode
+\Code 128 barcode
+\Code 39 barcode
+\Code 93 barcode
+\DataMatrix barcode
+\DataMatrix barcode With Binary Data
+\Deutsche Post Identcode barcode
+\Deutsche Post Leitcode barcode
+\Display Barcode On Form
+\draw barcode caption
+\Dutch Kix barcode
+\EAN 128 barcode
+\EAN 13 barcode
+\EAN 8 barcode
+\Fit barcode Into size
 \Generate Barcode from Service
 \Generate Barcodes from Database
 \Generate Barcodes from Excel
 \Generate PharmaCode
+\generate simple barcode
 \Generate vCard QR Code
 \GenerateWordDocumentWithBarcodes
-\GS1 DataBar Expanded
-\GS1 DataBar Expanded Stacked
-\GS1 DataBar Limited
-\GS1 DataBar Omnidirectional
-\GS1 DataBar Stacked
-\GS1 DataBar Stacked Omnidirectional
-\GS1 DataBar Truncated
-\GS1 Datamatrix (2D)
-\GS1 QR Code
-\I2of5
-\ISBN
-\JAN13
-\Macro PDF 417 (multiple)
-\Margins
-\MaxiCode
-\MaxiCode Mode 2-3 (Postal)
-\MSI
+\GS1 DataBar Expanded barcode
+\GS1 DataBar Expanded Stacked barcode
+\GS1 DataBar Limited barcode
+\GS1 DataBar Omnidirectional barcode
+\GS1 DataBar Stacked barcode
+\GS1 DataBar Stacked Omnidirectional barcode
+\GS1 DataBar Truncated barcode
+\GS1 Datamatrix barcode
+\GS1 QR Code barcode
+\I 2 of 5 barcode
+\ISBN barcode
+\JAN 13 barcode
+\Macro PDF 417 barcode
+\MaxiCode barcode
+\MaxiCode Mode 2-3 Postal barcode
+\MSI barcode
 \Multiple Barcode Generation
-\NarrowBarWidth
-\Numly
-\Optical Product
-\OptionsCodabar
-\OptionsCode128
-\PDF417 (2D)
-\PDF417 truncated  (2D)
-\PDF417 With Binary Data
-\Planet
-\Plessey
-\Postnet
+\Numly barcode
+\Optical Product barcode
+\PDF417 barcode
+\PDF417 barcode With Binary Data
+\PDF417 truncated barcode
+\Planet barcode
+\Plessey barcode
+\Postnet barcode
 \Print barcode
 \Print Labels
-\PZN
-\QR Code (2D)
-\QR Code With Binary Data
-\QR Code With CalenderEntry
-\QR Code With Image
-\QR Code with JSON
-\RenderingOptions
-\Royal Mail
-\Singapore Postal Code
-\Swiss Post Parcel
-\Unicode
-\UPCA
-\UPCE
-\USPS Sack Label
-\USPS Tray Label
-\WideToNarrowRatio
-\WinForms Control
-\WPF Control - Desktop
-\WPF Control - Web Demo
-\_Web API
+\PZN barcode
+\QR Code barcode
+\QR Code barcode With Binary Data
+\QR Code barcode With Calender Entry
+\QR Code barcode With Image inside
+\QR Code barcode with JSON inside
+\Royal Mail barcode
+\set Additional barcode Caption
+\set barcode Angle
+\set barcode bar heightBarHeight
+\set barcode Margins
+\set codabar barcode options
+\set code 128 barcode options
+\set custom barcode caption
+\set Narrow Bar Width
+\Set Rendering Options
+\set Unicode value for barcode
+\Set Wide To Narrow Ratio
+\Singapore Postal Code barcode
+\Swiss Post Parcel barcode
+\UPCA barcode
+\UPCE barcode
+\USPS Sack Label barcode
+\USPS Tray Label barcode
+\WinForms barcode Control
+\WPF barcode Control for Desktop
+\WPF barcode Control for Web Demo
 \Generate Barcode from Service\ServiceController
 \Generate Barcode from Service\WindowsService1
-\_Web API\Generate Barcode
