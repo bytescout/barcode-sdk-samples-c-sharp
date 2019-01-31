@@ -1,91 +1,91 @@
 ## Index of source code examples:
 
-\Add barcode Checksum
-\Add barcode Checksum To Caption
-\Add barcode To Image
-\Add barcode To Multi TIFF
-\Add barcode To New PDF
+\Add Barcode Checksum
+\Add Barcode Checksum To Caption
+\Add Barcode To Image
+\Add Barcode To Multi TIFF
+\Add Barcode To New PDF
 \Add Barcode To PDF
-\Add custom images To Pdf Document
-\Aztec barcode (2D)
-\Aztec barcode With Binary Data
-\Bookland barcode
-\Change barcode color
-\CodaBar barcode
-\Code 128 barcode
-\Code 39 barcode
-\Code 93 barcode
-\DataMatrix barcode
-\DataMatrix barcode With Binary Data
-\Deutsche Post Identcode barcode
-\Deutsche Post Leitcode barcode
+\Add Custom Images To PDF Document
+\Aztec Barcode (2D)
+\Aztec Barcode With Binary Data
+\Bookland Barcode
+\Change Barcode Color
+\CodaBar Barcode
+\Code 128 Barcode
+\Code 39 Barcode
+\Code 93 Barcode
+\DataMatrix Barcode
+\DataMatrix Barcode With Binary Data
+\Deutsche Post Identcode Barcode
+\Deutsche Post Leitcode Barcode
 \Display Barcode On Form
-\draw barcode caption
-\Dutch Kix barcode
-\EAN 128 barcode
-\EAN 13 barcode
-\EAN 8 barcode
-\Fit barcode Into size
+\Draw Barcode Caption
+\Dutch Kix Barcode
+\EAN-128 Barcode
+\EAN-13 Barcode
+\EAN-8 Barcode
+\Fit Barcode Into Size
 \Generate Barcode from Service
 \Generate Barcodes from Database
 \Generate Barcodes from Excel
 \Generate PharmaCode
-\generate simple barcode
+\Generate Simple Barcode
 \Generate vCard QR Code
-\GenerateWordDocumentWithBarcodes
-\GS1 DataBar Expanded barcode
-\GS1 DataBar Expanded Stacked barcode
-\GS1 DataBar Limited barcode
-\GS1 DataBar Omnidirectional barcode
-\GS1 DataBar Stacked barcode
-\GS1 DataBar Stacked Omnidirectional barcode
-\GS1 DataBar Truncated barcode
-\GS1 Datamatrix barcode
-\GS1 QR Code barcode
-\I 2 of 5 barcode
-\ISBN barcode
-\JAN 13 barcode
-\Macro PDF 417 barcode
-\MaxiCode barcode
-\MaxiCode Mode 2-3 Postal barcode
-\MSI barcode
+\Generate Word Document With Barcodes
+\GS1 DataBar Expanded Barcode
+\GS1 DataBar Expanded Stacked Barcode
+\GS1 DataBar Limited Barcode
+\GS1 DataBar Omnidirectional Barcode
+\GS1 DataBar Stacked Barcode
+\GS1 DataBar Stacked Omnidirectional Barcode
+\GS1 DataBar Truncated Barcode
+\GS1 Datamatrix Barcode
+\GS1 QR Code Barcode
+\Interleaved 2 of 5 Barcode
+\ISBN Barcode
+\JAN-13 Barcode
+\Macro PDF417 Barcode
+\MaxiCode Barcode
+\MaxiCode Mode 2-3 Postal Barcode
+\MSI Barcode
 \Multiple Barcode Generation
-\Numly barcode
-\Optical Product barcode
-\PDF417 barcode
-\PDF417 barcode With Binary Data
-\PDF417 truncated barcode
+\Numly Barcode
+\Optical Product Barcode
+\PDF417 Barcode
+\PDF417 Barcode With Binary Data
+\PDF417 Truncated Barcode
 \Planet barcode
-\Plessey barcode
-\Postnet barcode
-\Print barcode
+\Plessey Barcode
+\Postnet Barcode
+\Print Barcode
 \Print Labels
-\PZN barcode
-\QR Code barcode
-\QR Code barcode With Binary Data
-\QR Code barcode With Calender Entry
-\QR Code barcode With Image inside
-\QR Code barcode with JSON inside
-\Royal Mail barcode
-\set Additional barcode Caption
-\set barcode Angle
-\set barcode bar heightBarHeight
-\set barcode Margins
-\set codabar barcode options
-\set code 128 barcode options
-\set custom barcode caption
-\set Narrow Bar Width
+\PZN Barcode
+\QR Code Barcode
+\QR Code Barcode With Binary Data
+\QR Code Barcode With Calender Entry
+\QR Code Barcode With Image inside
+\QR Code Barcode With JSON Inside
+\Royal Mail Barcode
+\Set Additional Barcode Caption
+\Set Barcode Angle
+\Set Barcode Bar Height
+\Set Barcode Margins
+\Set Codabar Barcode Options
+\Set Code 128 Barcode Options
+\Set Custom Barcode Caption
+\Set Narrow Bar Width
 \Set Rendering Options
-\set Unicode value for barcode
+\Set Unicode Value For Barcode
 \Set Wide To Narrow Ratio
-\Singapore Postal Code barcode
-\Swiss Post Parcel barcode
-\UPCA barcode
-\UPCE barcode
-\USPS Sack Label barcode
-\USPS Tray Label barcode
-\WinForms barcode Control
-\WPF barcode Control for Desktop
-\WPF barcode Control for Web Demo
+\Singapore Postal Code Barcode
+\Swiss Post Parcel Barcode
+\UPCA Barcode
+\UPCE Barcode
+\USPS Sack Label Barcode
+\USPS Tray Label Barcode
+\WinForms Barcode Control
+\WPF Barcode Control for Desktop
+\WPF barcode Control for Web
 \Generate Barcode from Service\ServiceController
 \Generate Barcode from Service\WindowsService1
