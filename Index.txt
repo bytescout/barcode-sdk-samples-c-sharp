@@ -88,4 +88,4 @@
 \WPF Barcode Control for Desktop
 \WPF barcode Control for Web
 \Generate Barcode from Service\ServiceController
-\Generate Barcode from Service\WindowsService1
+\Generate Barcode from Service\WindowsService
