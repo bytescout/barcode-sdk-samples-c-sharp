@@ -15,6 +15,7 @@
 \Code 128 Barcode
 \Code 39 Barcode
 \Code 93 Barcode
+\Composed Barcode
 \DataMatrix Barcode
 \DataMatrix Barcode With Binary Data
 \Deutsche Post Identcode Barcode
