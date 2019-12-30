@@ -68,6 +68,11 @@
 \QR Code Barcode With Calender Entry
 \QR Code Barcode With Image inside
 \QR Code Barcode With JSON Inside
+\QR Code with Email
+\QR Code with Message
+\QR Code with Sms Message
+\QR Code with vCard
+\QR Code with Website Url
 \Royal Mail Barcode
 \Set Additional Barcode Caption
 \Set Barcode Angle
