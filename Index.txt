@@ -51,6 +51,7 @@
 \MaxiCode Barcode
 \MaxiCode Mode 2-3 Postal Barcode
 \MSI Barcode
+\Multiline Barcode Caption
 \Multiple Barcode Generation
 \Numly Barcode
 \Optical Product Barcode
