@@ -44,6 +44,7 @@
 \GS1 Datamatrix Barcode
 \GS1 Datamatrix barcode with multiline captions
 \GS1 QR Code Barcode
+\GS1-128 Barcode
 \Interleaved 2 of 5 Barcode
 \ISBN Barcode
 \JAN-13 Barcode
