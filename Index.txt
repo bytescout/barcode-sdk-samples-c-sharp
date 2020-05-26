@@ -21,6 +21,7 @@
 \Deutsche Post Identcode Barcode
 \Deutsche Post Leitcode Barcode
 \Display Barcode On Form
+\Display License Info
 \Draw Barcode Caption
 \Dutch Kix Barcode
 \EAN-128 Barcode
