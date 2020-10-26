@@ -65,6 +65,7 @@
 \Postnet Barcode
 \Print Barcode
 \Print Labels
+\Print Multiple Barcodes
 \PZN Barcode
 \QR Code Barcode
 \QR Code Barcode With Binary Data
